@@ -1,0 +1,494 @@
+,_id,title,category,post_type
+0,5d62abaa65218653a132c956,hello there,plant biotechnology,blog
+1,5d6d39567fa40e1417a4931c,Ml and AI,artificial machine information learning technology intelligence,blog
+2,5d7d23315720533e15c3b1ee,What is an Operating System ?,systems operating,blog
+3,5d7d405e5720533e15c3b1f3,Lord Shiva,drawings,artwork
+4,5d80dfbc6c53455f896e600e,How Competition law evolved?,competition laws,blog
+5,5d80e7c16c53455f896e6014,Raghavan Committee - 2002.,competition laws,blog
+6,5d80ecfd6c53455f896e601a,Let's discuss some Case laws!,competition laws,blog
+7,5d81323a6c53455f896e6044,Forms of Cartel.,competition laws,blog
+8,5d9b3514979d5962253c2f90,Biodiversity,eco system,blog
+9,5d9b950768671220a1b2b153,Economic policy,policies economic,blog
+10,5da745b6019399436815c4cd,Corporate design,design graphic,artwork
+11,5dada695610ba040fbfdf585,Trident,drawings,artwork
+12,5dada734610ba040fbfdf588,Lord shiva,drawings,artwork
+13,5dada798610ba040fbfdf58b,Smart City,painting,artwork
+14,5dada82f610ba040fbfdf58e,Om Namah Shivaay,pen and ink,artwork
+15,5dada89b610ba040fbfdf591,Kid Bu,drawings,artwork
+16,5dadf6ae610ba040fbfdf5c8,MIS,technology information computer,blog
+17,5db2a7d099cbb90e4339c734,Portrait art,drawings painting,artwork
+18,5db2b91a99cbb90e4339c749,CLASSIFYING FORMS OF CARTELS,competition laws,blog
+19,5dbc622a99cbb90e4339c7f6,Best friend,design arts graphic illustration visual,artwork
+20,5dbc631f99cbb90e4339c7fd,Calligraphy,drawings calligraphy,artwork
+21,5dc065ca24b883670268772f,Colours of pushkar.,photography,artwork
+22,5dd1751db802e41ed198b680,Marital Rape - Rape is Rape,empowerment,blog
+23,5dde6a91369b28584ecca156,Spirituality,photography,artwork
+24,5ddeb6e80eb5e25a8a07f065,Library Managment System: Software Requirement Specification (SRS),technology computer,project
+25,5de179d80eb5e25a8a07f079,Navigation system using BFS DFS algorithms,design algorithms and technology analysis of computer,project
+26,5de7971b8eab6401affbb137,Shadow Sketch,drawings,artwork
+27,5de8d73249e8203ff9219a74,Promotional video.,video editing,skill
+28,5dea816a42a8854bf6eaba89,The Periodic Table,inorganic chemistry,blog
+29,5dee9b5042a8854bf6eabaaf,Computer Aided Machine Drawing (CAMD),technology computer,project
+30,5df64ad1cc709107827fb3dd,The Chosen,drawings,artwork
+31,5e04fb252a37d20505da2a2b,Python 3 Programming Introduction,languages programming,blog
+32,5e1029f22a37d20505da2a79,Chat App UI Desgin,design conceptual graphic,artwork
+33,5e27002d2a37d20505da2c13,Workforce Diversity as a Challenge,hr management,blog
+34,5e281cf0025ae20886de2050,Spartan,drawings,artwork
+35,5e2867f6025ae20886de205a,Human Resource Management,hr human management resources,blog
+36,5e294fd1c85ab714a7da6643,Personal growth,international mass media relations,blog
+37,5e2d36ebc85ab714a7da66d1,CONTOURING CLAY,sculptures artistic design,artwork
+38,5e2d3fbfc85ab714a7da66d5,Multipurpose Jewel,design ceramics fashion artistic,artwork
+39,5e2d447dc85ab714a7da66d7,Traditional and Modern Sports,design craft artistic,artwork
+40,5e2d4737c85ab714a7da66d9,LGBT PRIDE,design artistic arts conceptual visual fashion,artwork
+41,5e2d4d63c85ab714a7da66db,Magazine Cover Redefined,photography design artistic arts graphic visual fashion,artwork
+42,5e2d516fc85ab714a7da66dd,'The Virtual ME',design artistic arts graphic illustration visual fashion,artwork
+43,5e2f1811c85ab714a7da670d,Abacus,linear mathematics algebra,blog
+44,5e31a591c85ab714a7da6760,Will AI replace humans intellectual work?,electronics electrical machines technology,blog
+45,5e36746a8d344822fed4d147,ROMAN REIGNS,drawings,artwork
+46,5e3674c68d344822fed4d152,OM,drawings,artwork
+47,5e36763d8d344822fed4d15d,MK Swords,drawings,artwork
+48,5e36db70eab55d319938a6cc,HOW INTERNAL AUDIT WORKS,internal audit auditing,blog
+49,5e36e7baeab55d319938a6d1,E-Commerce,commerce transactions e,blog
+50,5e372ee2eab55d319938a6ed,SEO (Search Engine Optimization),technology computation computer,blog
+51,5e37c087eab55d319938a700,IMPORTANCE OF INTERNAL FINANCIAL CONTROL,internal financial control auditing,blog
+52,5e37c301eab55d319938a701,Custom laws,taxation laws custom,blog
+53,5e37c78aeab55d319938a703,WHY AUDIT EVIDENCE IS NECESSARY?,evidence audit auditing,blog
+54,5e37ce10eab55d319938a710,GOODS & SERVICE TAX (GST),gst taxation,blog
+55,5e37d08ceab55d319938a711,DIRECT TAX,tax direct taxation,blog
+56,5e37d1afeab55d319938a712,SECRETARIAL AUDIT,secratarial audit auditing,blog
+57,5e37d490eab55d319938a713,ROLE OF BANKING COMPANIES IN INDIA,companies banking,blog
+58,5e37d699eab55d319938a71a,WHAT NEW TECHNOLOGY DOES BANKS ARE USING TODAY?,technology banking,blog
+59,5e37d8c9eab55d319938a71e,AUDIT REMARK,remark audit auditing,blog
+60,5e37d9eaeab55d319938a71f,WHY COST AUDIT IS IMPORTANT FOR A COMPANY,cost audit auditing,blog
+61,5e37dc1aeab55d319938a720,WHAT IS STATUTORY AUDIT,statuary audit auditing,blog
+62,5e3ab644eab55d319938a72d,Travelling,photography,artwork
+63,5e3c7293eab55d319938a74d,PHP,technology languages computer programming,blog
+64,5e3e9cc0eab55d319938a79b,C#(.NET),technology languages computer programming,blog
+65,5e3ea110eab55d319938a7a7,OS,systems operating,project
+66,5e3fc856eab55d319938a7f2,BASIC STRUCTURE DOCTRINE,legal studies system,blog
+67,5e3fc931eab55d319938a7f4,SPORTS LEGISLATIONS IN INDIA,sports law coaching,blog
+68,5e3fcb74eab55d319938a806,Economics Sociology,sociology economics,blog
+69,5e3fcc56eab55d319938a808,Concept of Revenue,concept revenue economics,blog
+70,5e3fcd38eab55d319938a81a,Human Rights and Duties,rights and human duties,blog
+71,5e3fce21eab55d319938a81c,Concept of Human Rights and Duties,rights and human duties,blog
+72,5e3fcfcdeab55d319938a81e,Sociology of Religion,sociology religion of,blog
+73,5e3fd10aeab55d319938a820,Sociology in India,sociology in india,blog
+74,5e3fd290eab55d319938a822,International Politics,international science politics political,blog
+75,5e3fd3bdeab55d319938a824,Colonialism in India,science colonialism in india political,blog
+76,5e3fd57aeab55d319938a826,Labour law,legal law labor studies,blog
+77,5e41b98eeab55d319938a82d,PHP Variables,design languages algorithms and programming technology analysis of computer,blog
+78,5e41bd7deab55d319938a839,Operators In PHP,languages information programming application technology computer,blog
+79,5e431bf9eab55d319938a86a,Computer Graphics,creation graphics computer,blog
+80,5e45ae70f5561b1994c8e320,Graphical Input Devices,creation graphics computer,blog
+81,5e45b5c9f5561b1994c8e32d,EDI (Electronic data interchange),e online platforms other commerce,blog
+82,5e4a3cf6f5561b1994c8e378,Making of the Joker sketch,drawing,skill
+83,5e4af475f5561b1994c8e385,Lord shiva (Shadow Drawing),drawings artistic design,artwork
+84,5e4ba3a9f5561b1994c8e392,Hand Art,drawings artistic design illustration,artwork
+85,5e4ba8b2f5561b1994c8e39f,Hand art,drawing,skill
+86,5e4c28c5f5561b1994c8e3b0,E-Commerce - Business Models,e online platforms other platform commerce shopping,blog
+87,5e4c2e65f5561b1994c8e3bd,E-Cash,commerce transactions e,blog
+88,5e4c3873f5561b1994c8e3d9,Bill Calculation(PHP),design languages algorithms and programming technology analysis of computer,project
+89,5e4c3c09f5561b1994c8e3e6,Stereoscopic and virtual-reality systems,technology hardware computer information,blog
+90,5e4c3d1df5561b1994c8e3f3,Raster graphics systems,technology computation application computer,blog
+91,5e4c435cf5561b1994c8e400,Printers,technology computation computer,blog
+92,5e4d359cf5561b1994c8e424,Business skills,business skills,blog
+93,5e4da502f5561b1994c8e42c,Prime No.(PHP),design languages algorithms and programming technology analysis of computer,project
+94,5e4da7c8f5561b1994c8e439,Factorial of a No.(PHP),design languages algorithms and programming technology analysis of computer,project
+95,5e4dab15f5561b1994c8e446,Palindrome No.(PHP),design languages algorithms and programming technology analysis of computer,project
+96,5e4ed85af5561b1994c8e470,Factorial (.net),design languages algorithms and programming technology analysis of computer,project
+97,5e4ed8ccf5561b1994c8e47d,Leap year checking (.net),design languages algorithms and programming technology analysis of computer,project
+98,5e4edd1bf5561b1994c8e48a,Delegates(.net),design languages algorithms and programming technology analysis of computer,project
+99,5e4edd87f5561b1994c8e497,Overloading Method(.net),design languages algorithms and programming technology analysis of computer,project
+100,5e4ef199f5561b1994c8e4a4,Mahakaal,drawings,artwork
+101,5e50141ed15de17a8cf1b912,Firewall,information application technology hardware computer,blog
+102,5e501d55d15de17a8cf1b91f,DATA AND MESSAGE SECURITY,technology application computer,blog
+103,5e50207cd15de17a8cf1b92c,Mobile Computing Technology,technology mobile applications computer,blog
+104,5e5023f1d15de17a8cf1b939,Applications of mobile computing,technology application computer,blog
+105,5e502673d15de17a8cf1b946,Data Transmission Modes,application technology systems operating computer,blog
+106,5e518c9fd701ab08af79299a,Topology & it's types,technology application information computer,blog
+107,5e5196b5d701ab08af7929a8,Baseband & Broadband,technology application computer information,blog
+108,5e519e8fd701ab08af7929b5,Information System,technology application information computer,blog
+109,5e51a2cfd701ab08af7929c2,Database management system(DBMS),technology application computer information,blog
+110,5e51a46ad701ab08af7929cf,Ethernet,technology information computer,blog
+111,5e51a9e8d701ab08af7929dc,Mahakaal,drawing,skill
+112,5e52e1b0d701ab08af7929eb,Network Model,technology application computer information,blog
+113,5e52e7abd701ab08af7929f8,Decision Making with 7 steps !!!,technology application computer information,blog
+114,5e52f2b8d701ab08af792a05,Network & it's types,technology application computer information,blog
+115,5e52f911d701ab08af792a12,Communication,communiaction basics of communication,blog
+116,5e52fd0ed701ab08af792a1f,Network Security Threats,technology application computer,blog
+117,5e5b561cd701ab08af792b8a,Morning nectar,drawings,artwork
+118,5e5b59bcd701ab08af792b8f,I am just hoping we'll have cake by the ocean,drawings,artwork
+119,5e5b59cbd701ab08af792b90,The girl in the meadow,design painting prints arts graphic illustration drawings visual,artwork
+120,5e5b6320d701ab08af792b9d,Concept of Revenue,concept revenue economics,blog
+121,5e5bb3eed701ab08af792bfa,The Nerd who was thrown out.,design painting artistic arts graphic illustration drawings visual,artwork
+122,5e5bdf4fd701ab08af792bfd,Artificial Intelligence,technology artificial intelligence computer,blog
+123,5e5e3b35fbc8805f69e02c9e,Importance of Digital Marketing for Startups,marketing advertising,blog
+124,5e5e7e0afbc8805f69e02ca8,What is Effective Leadership In Politics,science thought political,blog
+125,5e5e81e8fbc8805f69e02cab,Preparation and Presentation of Company Final Accounts,accounting of fundamental,blog
+126,5e5facf649d7f322c033e02b,SERP Meta Checker | Check Your Meta Preview in SERP | Tools For Search Engine Optimization,mixed media,artwork
+127,5e5fcd9a49d7f322c033e02f,Terrible Leadership And Its Influence In Companies,team management mangememnt,blog
+128,5e65346c85ae350860168b53,What is Information technology?,technology information computer,blog
+129,5e6eff8aed32a005135d6bb8,Why Do Millennials Change Jobs?,business responsibilities corporate social,blog
+130,5e7082f91b24db0468e90cc5,Distracted? Unfocused? Used This Method To Avoid Distraction.,applied ethics philosophy,blog
+131,5e7220891b24db0468e90ce2,5 Best Productivity Web Apps For Students.,management organizational in organization behaviour hr resources performance human,blog
+132,5e7304761b24db0468e90ce7,Textile And Apparel Testing,techniques garment desigining production manufacturing technology fashion textile,blog
+133,5e733f1c1b24db0468e90cf1,Benefits of Guest Posting to both Writers and Brand,marketing and distribution decisions promotion,blog
+134,5e767d501b24db0468e90d54,Gynecology,genetic engineering biotechnology,blog
+135,5e7680361b24db0468e90d66,App Development,technology mobile applications computer,blog
+136,5e773c0bcfc8b713f5ac7ab7,Study of Nerves,physiology neurology,blog
+137,5e773c89cfc8b713f5ac7ac9,Corona: What it is; how to prevent it and its effect on us,government mass media indian,blog
+138,5e773e15cfc8b713f5ac7ad9,Skeletal System,physiology osteology,blog
+139,5e7743ebcfc8b713f5ac7aeb,Protect the Heart,physiology cardiology,blog
+140,5e776c1fcfc8b713f5ac7b23,What is Ecology?,ecology zoology,blog
+141,5e77738bcfc8b713f5ac7b36,Cloud Computing,technology cloud computer computing,blog
+142,5e778ffccfc8b713f5ac7b50,What is Radiology?,physiology radiology,blog
+143,5e77bdc2cfc8b713f5ac7be4,Operating System 1,technology systems operating computer,blog
+144,5e77c625cfc8b713f5ac7c0b,Molecular Biology,molecular biology biotechnology,blog
+145,5e782cd9cfc8b713f5ac7c4f,🍉 Watermelon lemon cooler,physiology gastroenterology cardiology,blog
+146,5e783590cfc8b713f5ac7c5d,Quarantine days,painting,artwork
+147,5e7838bdcfc8b713f5ac7c99,Sad songs,logic philosophy,blog
+148,5e787636cfc8b713f5ac7cbe,Sunsets in Ottawa,painting,artwork
+149,5e78ae4ccfc8b713f5ac7cde,Sketch,drawings,artwork
+150,5e78c64acfc8b713f5ac7ce7,Best place in the world,watercolours,artwork
+151,5e78d6dccfc8b713f5ac7cf4,Childhood Sketch,drawings watercolours,artwork
+152,5e79b32ecfc8b713f5ac7d3f,The legend,drawings,artwork
+153,5e79b8becfc8b713f5ac7d45,The sorting hat,drawings,artwork
+154,5e79cf2acfc8b713f5ac7d4e,Truth❤💯,mixed conceptual media,artwork
+155,5e79f3fccfc8b713f5ac7d54,The Enlightened Dreams,drawings painting watercolours,artwork
+156,5e7a0d85cfc8b713f5ac7d77,Gun store Logo.,visual arts,artwork
+157,5e7a0fa1cfc8b713f5ac7d78,Breathe in quarantine!,drawings calligraphy,artwork
+158,5e7a5ebdcfc8b713f5ac7d7f,I won the Art.,conceptual,artwork
+159,5e7a5f5dcfc8b713f5ac7d80,Let's Slide.,pen and ink,artwork
+160,5e7a605dcfc8b713f5ac7d81,21 day Lock down. Quarantine,conceptual,artwork
+161,5e7a60edcfc8b713f5ac7d82,Tea!,drawings,artwork
+162,5e7a614fcfc8b713f5ac7d83,You are late.,drawings,artwork
+163,5e7a629ccfc8b713f5ac7d84,3D composition.,tapestry,artwork
+164,5e7a633ecfc8b713f5ac7d85,Designs : where magic happens.,calligraphy,artwork
+165,5e7a63c2cfc8b713f5ac7d86,Fight: Against Corona virus,drawings,artwork
+166,5e7a7066cfc8b713f5ac7d88,How Does A Person's Personal Development Affect His Business Leadership Ability?,in organization resources performance human,blog
+167,5e7b1e65cfc8b713f5ac7d90,Shiva Portrait,drawings,artwork
+168,5e7b8764cfc8b713f5ac7da2,Inside life,drawings,artwork
+169,5e7bd922cfc8b713f5ac7da9,What sports will look like in the future,science artificial information robotics data technology intelligence computer,blog
+170,5e7c78fdcfc8b713f5ac7daa,Types Of AI.,technology artificial intelligence computer,blog
+171,5e7c7a44cfc8b713f5ac7dac,Accounting As A Financial Institution.,accounting of fundamental,blog
+172,5e7cc074cfc8b713f5ac7db0,REAL TALK,public philosophy,blog
+173,5e7de250a3258347b42f210a,Top 10 big benefits of having a digital marketing career,marketing digital,skill
+174,5e7de48ca3258347b42f2110,Painting,drawings,artwork
+175,5e7df068a3258347b42f2125,screw town,photography,artwork
+176,5e7df283a3258347b42f2128,screw2,photography,artwork
+177,5e7e66e7a3258347b42f213c,Netflix: As a Case Study,mass videography media,blog
+178,5e7f39a3a3258347b42f2151,The Meenamma,design painting artistic acrylics arts watercolours drawings visual,artwork
+179,5e7f3cf8a3258347b42f2154,Piglet,drawings,artwork
+180,5e7f4fb3a3258347b42f2156,100 Free University Courses Online [2020],plant biotechnology,blog
+181,5e80b40ea3258347b42f21a5,Will IPL happen this year,sports event coaching,blog
+182,5e80b4cca3258347b42f21a7,Is China lying about Corona,science government and politics political,blog
+183,5e8164f9a3258347b42f21bf,Is The Ozone Layer Healing Itself Because Of The World Lockdown.,physical geography,blog
+184,5e816629a3258347b42f21c2,Employee Stock Option and Buyback Securities.,marketing and distribution decisions promotion,blog
+185,5e81a441a3258347b42f21d1,20 Best Data Science Certification & Courses for 2020,technology science data computer,blog
+186,5e81a4f2a3258347b42f21d3,7 Best Python Data Science Courses & Certification [2020],technology machine computer learning,blog
+187,5e81b47fa3258347b42f21d7,7 Steps To Stay Safe From Corona Virus,government mass media indian,blog
+188,5e81ba06a3258347b42f21ef,Managing Stress Amidst Corona,government mass media indian,blog
+189,5e81bc41a3258347b42f220a,How to Maintain Physical Distance: Physical Distance 101,government mass media indian,blog
+190,5e81be54a3258347b42f221d,Work From Home: Working Under Corona's Effect,government mass media indian,blog
+191,5e81bf2fa3258347b42f2244,Disease Prevention,design graphic,artwork
+192,5e81bf73a3258347b42f2257,Symptoms of Corona Virus,visual arts,artwork
+193,5e81bfe5a3258347b42f226a,7 Steps To Prevent COVID-19,visual arts,artwork
+194,5e81c06ba3258347b42f227d,Break The Chain: Stop The Spread,visual arts,artwork
+195,5e81c0cba3258347b42f2290,Is there any vaccine of COVID-19?,visual arts,artwork
+196,5e81c101a3258347b42f22a3,Corona's Checklist,visual arts,artwork
+197,5e81c15aa3258347b42f22b6,Handwashing 101,visual arts,artwork
+198,5e81c1b7a3258347b42f22ca,Be kind during Corona,visual arts,artwork
+199,5e81c1e6a3258347b42f22dd,Self Quarantine,visual arts,artwork
+200,5e81c257a3258347b42f22f0,Mask: When to use it,design visual arts graphic,artwork
+201,5e81c29ea3258347b42f2303,Social Distancing,visual arts,artwork
+202,5e822b4aa3258347b42f235f,How Soap Kills Corona Virus,education,skill
+203,5e823908a3258347b42f2368,Oliveres mediterrànies,physical geography,blog
+204,5e82390ea3258347b42f2369,Oliveres mediterrànies,physical geography,blog
+205,5e8307ada3258347b42f23ec,Aesthetic,photography,artwork
+206,5e8308c4a3258347b42f23ed,Quarantined,photography,artwork
+207,5e8309a9a3258347b42f23f2,Bloom🌸,photography,artwork
+208,5e830a6ca3258347b42f23f6,Dog❤️,photography,artwork
+209,5e830dc8a3258347b42f23fb,Ways to Choose the Perfect Tour or Travel Agency/Company in Bhubaneswar,business organisation,blog
+210,5e8381cfa3258347b42f2428,What Can I Do to Keep Myself Safe From Coronavirus ?,environmental zoology biology,blog
+211,5e8448aba3258347b42f2447,JUSTICE FOR NORTH EAST,rights human fundamental,blog
+212,5e84657da3258347b42f2452,Leap of faith,photography,artwork
+213,5e847970a3258347b42f245e,8 Free Data Science Courses & Tutorials [2020],design algorithms and technology analysis of computer,blog
+214,5e84a6a3a3258347b42f246e,Must-Visit Hill Stations in Maharashtra,business organisation,blog
+215,5e85054fa3258347b42f24a0,How Artificial Intelligence tools Help You To Get Smart In Your Content Marketing,marketing management,blog
+216,5e866cffa3258347b42f24ef,What Is Amalgamation; Absorption and Reconstruction Of Companies?,practices corporate accounting theory and partnership,blog
+217,5e8837fba3258347b42f255b,The silence that shouts,photography,artwork
+218,5e88383aa3258347b42f255c,The silence that shouts,photography,artwork
+219,5e88a3c0a3258347b42f2572,Top 10 things for someone with itchy feet to do during self-isolation,business organisation,blog
+220,5e88aa21a3258347b42f2575,A stone bridge on the full moon night,watercolours,artwork
+221,5e88aac5a3258347b42f2577,Night View Ha Penny Bridge in Dublin Ireland,photography,artwork
+222,5e895ceca3258347b42f25b6,What are Set Off and Carry Forward Losses,laws tax income legal studies,blog
+223,5e895d87a3258347b42f25bb,Benefits Of A Virtual Portfolio.,articulation creation graphics computer,blog
+224,5e897ab4a3258347b42f25ca,10 Best Artificial Intelligence (AI) Courses Online for 2020,technology machine computer learning,blog
+225,5e897f6ca3258347b42f25cd,5 Best Computer Networking Courses & Certification [2020],technology application computer,blog
+226,5e8bfa8aa3258347b42f2611,Are We Alone In The Universe?,archeology prehistory human,blog
+227,5e8c2d01a3258347b42f2627,Even and Odd Numbers (PHP),design languages algorithms and programming technology analysis of computer,project
+228,5e8c993da3258347b42f264d,Armstrong No.(C# .Net),design languages algorithms and programming technology analysis of computer,project
+229,5e8cb88ea3258347b42f267e,Palindrome (C# .Net),design languages algorithms and programming technology analysis of computer,project
+230,5e8cc876a3258347b42f26a3,Negative or Positive No. (PHP),design languages algorithms and programming technology analysis of computer,project
+231,5e8ccfb5a3258347b42f26bc,Friend Number (C# .Net),design languages algorithms and programming technology analysis of computer,project
+232,5e8d539ba3258347b42f26d8,BEING CREATIVE☺☺,drawings,artwork
+233,5e8e13dca3258347b42f26f2,How To Lead Your Startups After Facing Loses: Case Study,venture ups business planning strategies start capitalist entreperneurship,blog
+234,5e901b98a3258347b42f2708,Must-Visit Hill Stations in Maharashtra,geography indian,blog
+235,5e901e9da3258347b42f2711,Advantages of Online Shopping Over Offline Shopping,marketing advertising,blog
+236,5e901f23a3258347b42f2725,Advantages of Online Shopping Over Offline Shopping,marketing advertising,blog
+237,5e90208ca3258347b42f2730,Benefits of Buying Grocery Online in Twin city of Odisha,e online platforms india other platform digital commerce shopping,blog
+238,5e9028cea3258347b42f2736,How to Choose the Right Home Cleaning Service Provider,business bio entrepreneurship,blog
+239,5e908602a3258347b42f275b,Creativity During Quarantine?,literature stories,blog
+240,5e91a2dda3258347b42f276d,आमची मुंबाई !!!,history indian,blog
+241,5e936c67a3258347b42f27b6,RADiO JOCKEY,video,skill
+242,5e940dd0a3258347b42f27f1,freeze,photography,artwork
+243,5e9415d2a3258347b42f27f8,SpaceX: As A Case Study,business management,blog
+244,5e941877a3258347b42f27fd,Bliss :),photography,artwork
+245,5e943363a3258347b42f2813,Sunset,photography,artwork
+246,5e9435f7a3258347b42f281a,Peaceful,photography,artwork
+247,5e94452ea3258347b42f282a,gripping,photography visual arts,artwork
+248,5e947c4aa3258347b42f283e,IMPORTANCE OF MENTAL HEALTH,education work social health,blog
+249,5e947dcda3258347b42f2843,CYBER WORLD WAR,work social tech,blog
+250,5e948155a3258347b42f2850,HOW TO PREPARE YOURSELF FOR A BETTER TOMORROW?,work social humanities,blog
+251,5e94827ea3258347b42f2854,TOWER,photography,artwork
+252,5e9483b6a3258347b42f2860,PEACE,photography,artwork
+253,5e9486f6a3258347b42f287a,EYES,photography,artwork
+254,5e948786a3258347b42f287e,based on your imagination,photography,artwork
+255,5e9488c1a3258347b42f288a,CANON,photography,artwork
+256,5e9489e7a3258347b42f2896,THOUGHTFUL,photography,artwork
+257,5e948c4fa3258347b42f28a2,engrossed,photography,artwork
+258,5e948ce6a3258347b42f28aa,Hermit,photography,artwork
+259,5e948db2a3258347b42f28ae,innocence,photography,artwork
+260,5e948db6a3258347b42f28b2,peace,photography,artwork
+261,5e948e4ca3258347b42f28ba,trekking,photography,artwork
+262,5e948e97a3258347b42f28be,portraying goddess,photography,artwork
+263,5e948f05a3258347b42f28c2,aloof,photography,artwork
+264,5e948fb8a3258347b42f28c6,deep thoughts,photography,artwork
+265,5e948fdfa3258347b42f28ca,monument,photography,artwork
+266,5e9496b3a3258347b42f28d8,Bloom🌼,photography,artwork
+267,5e94ae2fa3258347b42f28ee,Be thankful for every second of your life.,logic philosophy,blog
+268,5e94bc47a3258347b42f291d,Time,drawings,artwork
+269,5e94bf78a3258347b42f2925,Aesthetics,photography visual arts,artwork
+270,5e94caeda3258347b42f2932,How Chartered Accountants See Entrepreneurship Trends,accounting financial,blog
+271,5e956e42a3258347b42f297f,The brother sister bond -  A personal touch♥️,literature stories,blog
+272,5e95a06da3258347b42f29b4,Smile more often.,psychology psycholgy social,blog
+273,5e95d427a3258347b42f29db,Doodles woodles!,drawings,artwork
+274,5e95dd30a3258347b42f29f5,You are one in a kind!,photography conceptual,artwork
+275,5e95e469a3258347b42f2a02,Indian Space Research Organisation; ISRO.,physics instrumentation,blog
+276,5e95ed0aa3258347b42f2a0e,Lovely explosion box!,craft work,skill
+277,5e95f087a3258347b42f2a16,HOW TO THINK DIFFERENTLY?,substance social interventions work abuse,blog
+278,5e95f13ba3258347b42f2a1b,INDIA 5 TRILLION ECONOMY,indian economy economics,blog
+279,5e95f1a8a3258347b42f2a20,INDIA:- SAVIOR FROM CORONA,substance social interventions work abuse humanities,blog
+280,5e95f3a0a3258347b42f2a2c,REBEL?,substance social interventions work abuse education health,blog
+281,5e95f44ba3258347b42f2a31,Stand alone and stand apart.,interventions work social humanities,blog
+282,5e961830a3258347b42f2a4e,The Best Tools For Financial Analysis.,analysis financial finance,blog
+283,5e964006a3258347b42f2a65,Interesting Facts On India That You Had No Idea About,history indian,blog
+284,5e964200a3258347b42f2a6d,silence,photography,artwork
+285,5e964254a3258347b42f2a75,upside down,photography,artwork
+286,5e964354a3258347b42f2a7d,Beauty,architecture,artwork
+287,5e964576a3258347b42f2a86,insect,photography,artwork
+288,5e96464da3258347b42f2a8e,filtered,photography painting architecture,artwork
+289,5e964bcea3258347b42f2a96,street art; Jaisalmer,photography,skill
+290,5e9651d5a3258347b42f2a9f,early mornings with Gang,photography,artwork
+291,5e966ad3a3258347b42f2aaf,8 Best Machine Learning Courses for 2020,artificial cloud languages information programming computing technology intelligence computer,blog
+292,5e966b74a3258347b42f2ab1,10 Best UI UX Design Course & Certification [2020],design artificial algorithms management and database technology analysis of intelligence computer designing web,blog
+293,5e973a30a3258347b42f2ada,Sharing is caring!,movements literature in,blog
+294,5e97542da3258347b42f2ae5,Love binds,drawings,artwork
+295,5e9754efa3258347b42f2ae8,No one's worth hate🧡,drawings,artwork
+296,5e976a64a3258347b42f2af1,Dark Matter,mecahnics physics instrumentation energy quantum atomic,blog
+297,5e977f94a3258347b42f2af9,Aesthetics,photography,artwork
+298,5e978c7ca3258347b42f2b09,Theory Of Capital Structure.,business venture capitalist strategies,blog
+299,5e979490a3258347b42f2b13,Vintage (JAISALMER IS A REAL BEAUTY AND SO IS RAJASTHAN.),photography conceptual,artwork
+300,5e979637a3258347b42f2b1e,Relaxing (Jaisalmer; Rajasthan),photography architecture illustration,artwork
+301,5e9796dba3258347b42f2b26,Filtered Busy Streets  (Jaisalmer; Raj.),photography architecture,artwork
+302,5e979786a3258347b42f2b2e,Lost?,photography,artwork
+303,5e9806f5a3258347b42f2b61,Formation Of Trade Union,fundamental enforcement protection rights human,blog
+304,5e980938a3258347b42f2b66,Light Pollution And How To Solve It.,biology pollution studies environmental environment,blog
+305,5e9895e8a3258347b42f2ba7,Q U I E T,photography conceptual illustration,artwork
+306,5e98c18fa3258347b42f2bc4,Disappearing,photography,artwork
+307,5e99b1c6a3258347b42f2bf2,Shivshakti,drawings,artwork
+308,5e99b786a3258347b42f2bfd,Alone,painting,artwork
+309,5e99c99fa3258347b42f2c05,Inside The Black Hole Image That Made History.,mecahnics industrial particle nuclear physics instrumentation energy quantum atomic,blog
+310,5e9a7e73a3258347b42f2c24,Trust,painting,artwork
+311,5e9a8271a3258347b42f2c35,Near to nature,painting,artwork
+312,5e9a8437a3258347b42f2c38,Sign of peace,painting,artwork
+313,5e9aaeefa3258347b42f2c3f,What Can I Do to Keep Myself Safe From Coronavirus ?,environmental biotechnology,blog
+314,5e9ab176a3258347b42f2c4a,Birds Drawing,painting,artwork
+315,5e9b0274a3258347b42f2c60,Dreaming,photography,artwork
+316,5e9b0475a3258347b42f2c6b,Not too much to lose?,photography,artwork
+317,5e9b6b20a3258347b42f2c8d,RAJASTHAN; an absolute beauty.,geography indian,blog
+318,5e9db770a3258347b42f2dcf,E s c a p e,photography,skill
+319,5e9e2760a3258347b42f2df7,Nature of Industrial Disputes.,international treaties dispute alternate legal resolution agreement studies,blog
+320,5e9eececa3258347b42f2e11,Innovative Marketing Strategies,international principles management marketing of research methadology,blog
+321,5e9f3e1aa3258347b42f2e39,Goldfish,painting,artwork
+322,5e9f3f16a3258347b42f2e3c,Women: goddess,drawings,artwork
+323,5e9f3fd9a3258347b42f2e3f,Pride,drawings painting,artwork
+324,5e9f4045a3258347b42f2e42,Mythical,painting,artwork
+325,5e9f40b2a3258347b42f2e45,Light to fight,photography,artwork
+326,5e9f4155a3258347b42f2e48,Bloom to life,photography,artwork
+327,5e9f4215a3258347b42f2e4b,Colours of history,photography,artwork
+328,5e9f4295a3258347b42f2e4e,Rise and shine,photography,artwork
+329,5e9f439ba3258347b42f2e51,Blessings,photography,artwork
+330,5e9f4421a3258347b42f2e54,Handcrafted,sculptures,artwork
+331,5e9ff423a3258347b42f2e72,Importance Of Being Productive As A Teenager,child psycholgy development,blog
+332,5ea029e9a3258347b42f2e85,How will the economy be affected if Nations produce what they eat?,policies foreign break economics even point economic economy,blog
+333,5ea04678a3258347b42f2e8a,You know if you've been here.,photography architecture,artwork
+334,5ea047d5a3258347b42f2e96,Memory,photography,artwork
+335,5ea07ddba3258347b42f2eb6,CAPTURED.,photography,artwork
+336,5ea11fbd10426255a7aa9a38,Peace,painting,artwork
+337,5ea1603a10426255a7aa9a3e,You; are enough!,psychological growth psycholgy,blog
+338,5ea1d7ac10426255a7aa9a66,Too much?,photography,artwork
+339,5ea1ef0710426255a7aa9a7e,Closeness to nature,painting,artwork
+340,5ea2e85b10426255a7aa9a8c,Blues,photography,artwork
+341,5ea30f6010426255a7aa9a9c,How To Use Social Media To Promote A Project,management creative business lateral and activity technology mangement managerial,blog
+342,5ea319ee10426255a7aa9aa4,Tree Drawing,drawings,artwork
+343,5ea31e5610426255a7aa9ab0,Dusk sky.,photography,artwork
+344,5ea31ee710426255a7aa9ab3,Art,painting,artwork
+345,5ea31faf10426255a7aa9ab5,Aesthetic.,photography,artwork
+346,5ea3213010426255a7aa9abb,Miles to go before I sleep!,photography,artwork
+347,5ea321dd10426255a7aa9abd,Peace.,photography,artwork
+348,5ea3227010426255a7aa9ac1,Aesthetic.,photography,artwork
+349,5ea3236810426255a7aa9ac8,Solitude,photography,artwork
+350,5ea323a010426255a7aa9aca,Shree Jagannath Penting,painting,artwork
+351,5ea45fdf10426255a7aa9b34,Pleasant,photography,artwork
+352,5ea5aacd10426255a7aa9b71,Photography Composition,photograhy,project
+353,5ea5ce9310426255a7aa9b8d,Photography,photograhy,project
+354,5ea7cd9610426255a7aa9bd2,Guest Posting at Free of Cost,business,skill
+355,5ea80a7e10426255a7aa9be2,Analysis Of Successful Companies For the Past 5 years,new business foreign planning strategies organisation enviorment venture,blog
+356,5ea85c1f10426255a7aa9c05,Innovative Marketing Strategies,international principles marketing and distribution decisions of promotion,blog
+357,5ea8618a10426255a7aa9c0d,Urdu Poetry,work social ngo,blog
+358,5eaaffe110426255a7aa9c5b,Covid 19 case before court of earth,drawings,artwork
+359,5eab002f10426255a7aa9c6c,Covid 19 case before court of earth,drawings,artwork
+360,5eab924610426255a7aa9c90,Two 🐦 Sing A Song,drawings,artwork
+361,5eab942d10426255a7aa9ca7,Beautiful Bird,painting,artwork
+362,5eab962e10426255a7aa9cb8,Platform for Guest Posting,mixed media,artwork
+363,5eabeec210426255a7aa9cd2,Factious news – The impact on youth.,work social humanities,blog
+364,5eabf76a10426255a7aa9cfb,Street Art Photo by Mathilde Decourcelle,photography,artwork
+365,5eabfaf510426255a7aa9da0,Eyes that speak. Photo by Dan Farrell,photography,artwork
+366,5eac305f10426255a7aa9dd3,She got a new hairstyle! Photo by Chirag,photography,artwork
+367,5eac315210426255a7aa9dfe,Street Art by Chirag.,photography,artwork
+368,5eac349010426255a7aa9e29,Shady eyes,drawings,artwork
+369,5eac350110426255a7aa9e92,Hello world,painting fine arts,blog
+370,5eac578010426255a7aa9eba,Indian Polity And Governance.,government nationality tradition legal law studies system,blog
+371,5eadc2f710426255a7aa9ee4,Entrepreneural Training: The roadless travel,new ups business start planning enviorment venture capitalist entreperneurship,blog
+372,5eaed2f210426255a7aa9eef,Keen learner.,photography,skill
+373,5eaf322910426255a7aa9efa,Corporate Influence,company banking legal law studies system,blog
+374,5eaf3d4110426255a7aa9f4c,Students Networking!,networking,blog
+375,5eaf4d4210426255a7aa9f76,6 Best + Free PLC Programming Training & Course [2020 UPDATED],artificial machine learning frontend application technology development intelligence computer designing web,blog
+376,5eaf8b9310426255a7aa9f7e,Avengers Theme - Acoustic guitar,music,skill
+377,5eb0f27f10426255a7aa9fa2,Nerves,painting,artwork
+378,5eb1358910426255a7aa9fba,WOOD CARVING,carving sculptures crafts craft wood,artwork
+379,5eb1373110426255a7aa9fc1,TIE AND DYE,design fashion,artwork
+380,5eb13a3610426255a7aa9fc5,GLASS PAINTING,design painting craft artistic,artwork
+381,5eb13e2a10426255a7aa9fcf,PENCIL RENDERING,drawings,artwork
+382,5eb13ee710426255a7aa9fd3,PENCIL RENDERING,drawings,artwork
+383,5eb1407c10426255a7aa9fdb,PENCIL RENDERING,drawings,artwork
+384,5eb1478a10426255a7aa9feb,STRIPS (TINT;TONE AND SHADE),composition 2d watercolours painting,artwork
+385,5eb1485410426255a7aa9fef,TINT; TONE AND SHADE OF RED,composition painting 2d watercolours,artwork
+386,5eb1490610426255a7aa9ff4,CHECKS (TINT;TONE AND SHADE),composition painting 2d watercolours,artwork
+387,5eb153ca10426255a7aa9fff,PRINCIPLES OF DESIGN ( CONTRAST),craft visual arts conceptual,artwork
+388,5eb1551e10426255a7aaa003,PRINCIPLES OF DESIGN (BALANCE),painting craft arts conceptual visual,artwork
+389,5eb1569910426255a7aaa007,PRINCIPLES OF DESIGN (CONTRAST),painting 2d craft composition mixed media,artwork
+390,5eb158d410426255a7aaa011,MOSAIC ART,painting craft arts mixed conceptual visual mosaic media,artwork
+391,5eb159a610426255a7aaa015,PRINCIPLES OF DESIGN (RHYTHM),2d craft composition conceptual drawings,artwork
+392,5eb15a9810426255a7aaa019,MOSAIC ART,painting 2d craft composition mixed conceptual mosaic media,artwork
+393,5eb1ac4510426255a7aaa024,E-book,video,skill
+394,5eb1df6d10426255a7aaa029,Novel & Consenent (P.H.P),design languages algorithms and programming technology analysis of computer,project
+395,5eb2c11210426255a7aaa052,Gangster Style,drawings,artwork
+396,5eb2cbde10426255a7aaa074,WisdomLeaf,photography,artwork
+397,5eb2ce0c10426255a7aaa078,Thor Arriving,photography,artwork
+398,5eb45ca210426255a7aaa0b5,STILL,photography architecture,artwork
+399,5eb4f80810426255a7aaa0ce,Shree Ganesh Drawing,drawings,artwork
+400,5eb4fab110426255a7aaa0ed,God Drawing,drawings,artwork
+401,5eb4fbe910426255a7aaa105,God,drawings,artwork
+402,5eb6db91fd92f539c465dd71,Wildlife Creation.,photography,artwork
+403,5eb6dc4cfd92f539c465dd77,Swift Alone!,photography,artwork
+404,5eb6dd5afd92f539c465dd7d,Nature,photography,artwork
+405,5eb6de2dfd92f539c465dd83,Pebbles or Rocks 🙄,photography,artwork
+406,5eb6df2dfd92f539c465dd89,Sea Shore,photography,artwork
+407,5eb6e04ffd92f539c465dd8f,Camel Shades,photography,artwork
+408,5eb7b10ffd92f539c465ddda,The Tree,photography,artwork
+409,5eba2dd3514aab59896bcc57,Blur but beautiful <3,photography,artwork
+410,5eba2e94514aab59896bcc5a,Sky never disappoints me!,photography,artwork
+411,5ebc3239514aab59896bcc86,The Basic Edge of Design.,desigining communication cutting illustration pattern fashion,blog
+412,5ebcf6ea514aab59896bcd09,5 points to consider while choosing a pathology lab,animal biotechnology,blog
+413,5ebd1111514aab59896bcd1c,The 7 Steps of Doing A Professional Design Task.,desigining trends culture portfoilio pattern fashion,blog
+414,5ebd5b46514aab59896bcd5a,Quick Sketch of Gangster Skull.,sketch video,skill
+415,5ec1fd0974f7660d73aa0fd5,Daaku,drawings,artwork
+416,5ec2215374f7660d73aa1011,Women power,painting,artwork
+417,5ec278b574f7660d73aa10d5,Rides,drawings,artwork
+418,5ec2b27974f7660d73aa1115,Importance of Design.,desigining trends culture pattern fashion textile,blog
+419,5ec2d29074f7660d73aa113b,New platform,test,skill
+420,5ec2e16074f7660d73aa1154,Become professional,professionalism,skill
+421,5ec2f7c074f7660d73aa116e,Making of Daaku Art,art,skill
+422,5ec3667274f7660d73aa1194,Ganesha,drawings,artwork
+423,5ec3676574f7660d73aa119a,Kabir singh,drawings,artwork
+424,5ec3bc1a74f7660d73aa1207,The Making of Daaku,art,skill
+425,5ec3c09274f7660d73aa1229,Dakrai Artwork.,pen and ink,artwork
+426,5ec54fc9f2781131cc7e50f5,Future Communication Predictions,science technology,skill
+427,5ec5546bf2781131cc7e5140,Glitch.,painting,artwork
+428,5ec573a3f2781131cc7e51b8,My First Animated Post.,science art,skill
+429,5ec57914f2781131cc7e51c8,The Power of Indian Audience.,art,skill
+430,5ec57acaf2781131cc7e51d5,Ruins.,painting,artwork
+431,5ec601a0f2781131cc7e522e,Form of ma durga,drawings,artwork
+432,5ec7a699ec493f4a2655883a,HUMAN ILLUSTRATION (With Galaxy Background),design watercolours illustration drawings fashion,artwork
+433,5ec7a7a3ec493f4a26558840,HUMAN ILLUSTRATION ( Background of a room),design watercolours illustration drawings fashion,artwork
+434,5ec7a8bdec493f4a26558846,HUMAN ILLUSTRATION,design watercolours illustration drawings fashion,artwork
+435,5ec7aafbec493f4a26558857,FASHION ILLUSTRATION,design watercolours fashion illustration,artwork
+436,5ec7abfdec493f4a26558860,FASHION ILLUSTRATION (OP ART),design pen fashion ink and mixed watercolours conceptual illustration drawings media,artwork
+437,5ec7ad1aec493f4a26558869,FASHION ILLUSTRATION (street fashion),design pen ink and watercolours conceptual illustration fashion,artwork
+438,5ec8204cec493f4a26558893,Art Expo 2020,design artistic logo graphic illustration,artwork
+439,5ec821ddec493f4a2655889e,Save Earth.,design artistic arts graphic illustration visual,artwork
+440,5eca6ddbec493f4a26558a46,Always Remember !!!,learning,skill
+441,5eca7601ec493f4a26558a62,Always do Right 👍🏻,learning,skill
+442,5eca8fceeaff6b0c3a58a3c0,Zero-Waste Lifestyle,fashion trends,project
+443,5ecb6edeeaff6b0c3a58a479,Happy Eid-ul-Fitr 2020,photography architecture,artwork
+444,5ecb7155eaff6b0c3a58a486,Eid Mubarak,photography design architecture arts graphic visual,artwork
+445,5ecb72c0eaff6b0c3a58a48e,EID MUBARAK,photography design artistic logo architecture arts graphic visual,artwork
+446,5ecb7567eaff6b0c3a58a4cf,Design Process,design logo 2d arts composition graphic visual,artwork
+447,5ecc186aeaff6b0c3a58a53f,Beliefs ❣️,photography visual arts,artwork
+448,5ecc1d4eeaff6b0c3a58a565,Faith in yourself,photography,artwork
+449,5ecce8a5eaff6b0c3a58a5e9,The Waves Have Stood Still,photography,artwork
+450,5ecd5d417023451e662235c5,"Machine Learning”&“Operations"" (MlOps)",technology machine computer learning,blog
+451,5ecd6ba47023451e66223604,Be yourself !!,photography,artwork
+452,5ecdecc67023451e66223765,Looking at nature through nature,photography,artwork
+453,5ecf23b87023451e66223944,Keep working hard !!,photography,artwork
+454,5ecf818376027d35905cbf03,GAN's INTRODUCTION,technology machine computer learning,blog
+455,5ecf96e876027d35905cbf46,GAN's Part(2),technology machine computer learning,blog
+456,5ecfa0ca76027d35905cbf57,Recommend Systems Machine Learning,technology machine computer learning,blog
+457,5ecfafcc76027d35905cbfb0,I was rejected over 200 times before I landed my first job,sociology in india,blog
+458,5ecfb35c76027d35905cbfbc,We can overcome these days!,painting,artwork
+459,5ecfffb976027d35905cc0e9,Xbox Series X To Launch With 'Thousands' of Games,mixed media,artwork
+460,5ed0007a76027d35905cc0ea,A solar-powered microbrewery has design-led energy in Sweden,design artistic,artwork
+461,5ed09ad076027d35905cc15f,Understanding Cloud Computing(AWS),technology cloud computer computing,blog
+462,5ed0e20776027d35905cc2fe,Here are 7 of my favourite books that I've read so far this year!⠀,fictions literature in stories movements,blog
+463,5ed0e31a76027d35905cc302,Designing Cmos circuit from Boolean expressions (Microwind),systems operating,project
+464,5ed0e65976027d35905cc356,Moore FSM Sequence Detector,design languages algorithms and programming technology analysis of computer,project
+465,5ed0f0c576027d35905cc3c7,Designing Circular Microstrip Antenna,systems operating,project
+466,5ed13d2876027d35905cc4c2,Launching an EC2 instance.,technology,skill
+467,5ed141aa76027d35905cc4c9,Integrating Machine Learning with devOps(MLops),technology science data computer,blog
+468,5ed175f176027d35905cc554,GAN's Introduction,machine learning artifical technology intelligence computer,project
+469,5ed175f476027d35905cc562,GAN's Introduction,machine learning artifical technology intelligence computer,project
+470,5ed1ff0276027d35905cc60d,AWS services and how to launch OS on AWS Cloud,technology cloud computer computing,blog
+471,5ed229d976027d35905cc666,Cloud Computing,cloud computing computation application technology computer,blog
+472,5ed2378276027d35905cc6b5,Acceptance!,pen ink and arts calligraphy visual,artwork
+473,5ed237d676027d35905cc6bd,Voice of intuition!,pen ink and calligraphy mixed media,artwork
+474,5ed2383776027d35905cc6ca,Self belief.,pen typography and ink,artwork
+475,5ed238d376027d35905cc6e5,Your reaction can change your destination.,pen typography and ink,artwork
+476,5ed23a6376027d35905cc73b,If you're in hell; don't stop. Keep moving!,pen typography and ink,artwork
+477,5ed23b0776027d35905cc746,Talented people.,pen typography and ink,artwork
+478,5ed23b6276027d35905cc74f,Moments in life,pen typography ink and calligraphy,artwork
+479,5ed23bb876027d35905cc759,Habit.,pen typography ink and calligraphy,artwork
+480,5ed23c1876027d35905cc761,Lie!,pen typography and ink,artwork
+481,5ed23c8676027d35905cc780,Change.,calligraphy and pen ink,artwork
+482,5ed23cb876027d35905cc788,Fear.,pen typography ink and calligraphy,artwork
+483,5ed23cf876027d35905cc790,Risk,pen typography ink and calligraphy,artwork
+484,5ed23d4276027d35905cc798,Energy.,pen typography ink and calligraphy,artwork
+485,5ed23e4d76027d35905cc7b8,Success Story Of OYO Founder Ritesh Agarwal,mass and society media,blog
+486,5ed2502b76027d35905cc7db,Learning...,technology machine computer learning,blog
+487,5ed3476576027d35905cca1d,AWS CLI Setup in Mac,technology,skill
+488,5ed3791976027d35905ccab6,CI/CD using GitHub Actions,technology information computer,blog
+489,5ed3820f76027d35905ccac8,Configure Docker with Django; PostgreSQL; Pg-admin & Elasticsearch,technology application computer information,blog
+490,5ed3ef4cbd514d602c1530f2,Recommendation Engine,machine learning artifical technology intelligence computer,project
+491,5ed415c6bd514d602c15312d,Face Recognition using Transfer Learning.,science technology,skill
+492,5ed4cbadbd514d602c1531a6,Configure CI/CD Pipeline in GitLab and deployment to server via SSH,technology application computer information,blog
